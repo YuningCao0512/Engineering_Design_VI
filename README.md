@@ -18,4 +18,5 @@
 ---
 
 [One of my favorite motivation videos](https://www.youtube.com/watch?v=gMWXMMUg5pI)
-![This is an examle of my photograghing skill](c4f91040bb687312d1fd2f81363ba0ef.jpg)
+![This is an examle of my photograghing skill](https://github.com/user-attachments/assets/82a1cd39-0ff5-4bf7-bc04-8053330bad4e)
+
