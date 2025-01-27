@@ -17,6 +17,9 @@
 
 ---
 
-[One of my favorite motivation videos](https://www.youtube.com/watch?v=gMWXMMUg5pI)
+[One of my favorite motivation videos](https://www.youtube.com/watch?v=gMWXMMUg5pI
+
+---
+`This is an examle of my photograghing skill`
 ![This is an examle of my photograghing skill](https://github.com/user-attachments/assets/82a1cd39-0ff5-4bf7-bc04-8053330bad4e)
 
