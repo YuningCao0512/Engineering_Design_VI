@@ -25,13 +25,13 @@
 
 ---
 `These are some of my lab research: `
-### Lab 1
-### Lab 2
-### Lab 3
-### Lab 4
-### Lab 5
-### Lab 6
-### Lab 7
-### Lab 8
-### Lab 9
-### Lab 10
+### Lab 1: GHDL and GTKWave
+### Lab 2: Command Line
+### Lab 3: Python
+### Lab 4: Django and Flask
+### Lab 5: Paho-MQTT
+### Lab 6: Node.js and Pystache
+### Lab 7: ThingSpeak and Google Sheets
+### Lab 8: Data Analysis
+### Lab 9: YANG
+### Lab 10: Blockchain
