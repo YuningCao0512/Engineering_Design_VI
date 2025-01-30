@@ -24,10 +24,11 @@
 ![This is an example of my photographing skill](https://github.com/user-attachments/assets/82a1cd39-0ff5-4bf7-bc04-8053330bad4e)
 
 ---
-**Lab 1**
-**Lab 2**
-**Lab 3**
-**Lab 4**
+`These are some of my lab research: `
+Lab 1
+Lab 2
+Lab 3**
+Lab 4**
 **Lab 5**
 **Lab 6**
 **Lab 7**
