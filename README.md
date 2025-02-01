@@ -1,6 +1,6 @@
 # Engineering Design VI 
 ## Stevens Institute of Technology -- EE 322 A
-### Yuning (Peter) Cao
+### Yuning (Peter) Cao [Team project](https://sites.google.com/d/1ngwPaidaa0Ctt1cAQI62VDjU3l0D9GB5/p/1R1XTZZ8OABlUEslSH3o1kkuUe-YeKoDF/edit)
 
 **Hello Everyone** 
 *This is my repository for Engineering Design VI*
