@@ -7,11 +7,11 @@ This lab is achieved using resources from [repository Lesson 6](https://github.c
 ## Using Node.js to accomplish certain tasks 
 ### I used the link above to successfully download Node.js. 
 I used command `node hello-world.js` to run the hello-world.js file in the terminal. This is the output:
-
+![output](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab6_pictures/hello_world.png)
 I used command `node hello.js` to run the hello-world.js file in the terminal. This is the output:
-
+![output](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab6_pictures/hello.png)
 I used command `node http.js` to run the hello-world.js file in the terminal. This is the output:
-
+![output](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab6_pictures/http.png)
 Each command have different outputs at the websites. Based on the pictures above, hello-world.js printed hello world once. Hello.js had outputs as "response end call done" and "request end event fired" in the terminal after displaying the words. The command http.js printed the amount of output of the website being refreshed. 
 ## Pystache 
 I used the command `sudo pip3 install pystache` to download Pystache on my laptop. Then I used the following command to finish the lab assignment: 
