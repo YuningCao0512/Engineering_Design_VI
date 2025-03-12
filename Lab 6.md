@@ -17,9 +17,9 @@ Each command have different outputs at the websites. Based on the pictures above
 ---
 ## Pystache 
 I used the command `sudo pip3 install pystache` to download Pystache on my laptop. Then I used the following command to finish the lab assignment: 
-`cat say_hello.mustache`
-`cat say_hello.py`
-`python3 say_hello.py`
+  `cat say_hello.mustache`
+  `cat say_hello.py`
+  `python3 say_hello.py`
 Here is the output: 
 
 ---
