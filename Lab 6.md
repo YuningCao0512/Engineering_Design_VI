@@ -12,3 +12,4 @@ I used command `node hello.js` to run the hello-world.js file in the terminal. T
 
 I used command `node http.js` to run the hello-world.js file in the terminal. This is the output:
 
+Each command have different outputs at the websites. Based on the pictures above, hello-world.js printed hello world once. Hello.js had outputs as "response end call done" and "request end event fired" in the terminal after displaying the words. The command http.js printed the amount of output of the website being refreshed. 
