@@ -15,11 +15,16 @@ I created my own enviroment to prevent errors from happening (specifically when 
 This command change direction of the terminal to iot, which is the overall document 
 
 ![~/iot](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab3_pictures/iot.png)
+
+---
 ### cd *3
 This command guide us to lesson 3 directly, instead of using all the extra steps 
 
 ![cd *3](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab3_pictures/cd%20*3.png)
+
+---
 ### python3 julian.py
+
 ### python3 date_example.py
 ### python3 datetime_example.py
 ### python3 time_example.py
@@ -30,4 +35,6 @@ This command guide us to lesson 3 directly, instead of using all the extra steps
 ### python3 cpu.py
 ### python3 battery.py
 ### python3 documentstats.py document.txt
+
+## Conclusion
 
