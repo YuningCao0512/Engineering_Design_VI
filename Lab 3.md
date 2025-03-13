@@ -5,7 +5,7 @@ For this lab, the main purpose is to use the information provided in [lesson 3](
 - `astral`
 - `geopy`
 To complete the download, I used the commands `pip3 install jdcal`, `pip3 install astral` and `pip3 install geopy`.
-
+![download](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab3_pictures/download.png)
 ## Executing commands 
 ### cd ~/iot
 ### cd *3
