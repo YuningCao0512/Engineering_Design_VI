@@ -20,7 +20,10 @@ I used the command `sudo pip3 install pystache` to download Pystache on my lapto
   `cat say_hello.mustache`
   `cat say_hello.py`
   `python3 say_hello.py`
-Here is the output: 
+However, the downloading was not working at first. Here is the mistake:
+![mistake](https://github.com/YuningCao0512/Engineering_Design_VI/tree/main/lab6_pictures)
+I tried to use `brew install pipx` command combined with `pip install pystache` to download Pystache in my environment. Here is the successful output:
+![work](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab6_pictures/work.png)
 
 ---
 ## Conclusion
