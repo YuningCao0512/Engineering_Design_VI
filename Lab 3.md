@@ -54,41 +54,40 @@ This prints the daily time information for New York. It gives basic information 
 
 ---
 ### 8. python3 moon.py
+This command prints different moon phases in the terminal on different dates.
 
+![moon](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab3_pictures/moon.png)
 
-
-
-
+---
 ### 9. python3 coordinates.py "Samuel C. Williams Library"
+This command prints the exact address of the Samuel C. Williams Library on Earth, as well as including the street address and the county.
 
+![library](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab3_pictures/library.png)
 
-
-
-
+---
 ### 10. python3 address.py "40.74480675, -74.02532861159351"
+This command uses the information from the library to determine the address of the location it provided. 
 
+![address](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab3_pictures/address.png)
 
-
-
-
+---
 ### 11. python3 cpu.py
+This command presents the number of physical cores, the number of logical CPUs and the utilization per second as a percentage for each CPU. The information is presented in matrix form. 
 
+![cpu](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab3_pictures/cpu.png)
 
-
-
-
+---
 ### 12. python3 battery.py
+This command presents the basic battery information about the local computer (my computer).
 
+![battery](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab3_pictures/battery.png)
 
-
-
-
+---
 ### 13. python3 documentstats.py document.txt
+This command counts the number of words in the document, as well as giving counts of the appearance of certain selected words. 
 
+![wordcount](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab3_pictures/wordcount.png)
 
-
-
-
-
+---
 ## Conclusion
-
+This lab demonstrates how we are able to use terminal to perform certain tasks based on the library downloaded. The terminal is able to achieve a lot of tasks we are not able to achieve by hand. This lab demonstartes the powerful utilization of terminal and python code libraries. 
