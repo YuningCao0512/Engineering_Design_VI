@@ -7,24 +7,28 @@ For this lab, the main purpose is to use the information provided in [lesson 3](
 ---
 
 To complete the download, I used the commands `pip3 install jdcal`, `pip3 install astral` and `pip3 install geopy`.
-I created my own enviroment to prevent errors from happening (specifically when terminal shows externally managed error)
+I created my own enviroment to prevent errors from happening (specifically when terminal shows externally managed error).
 
 ![download](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab3_pictures/download.png)
 ## Executing commands 
 ### cd ~/iot
-This command change direction of the terminal to iot, which is the overall document 
+This command change direction of the terminal to iot, which is the overall document.
 
 ![~/iot](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab3_pictures/iot.png)
 
 ---
 ### cd *3
-This command guide us to lesson 3 directly, instead of using all the extra steps 
+This command guide us to lesson 3 directly, instead of using all the extra steps.
 
 ![cd *3](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab3_pictures/cd%20*3.png)
 
 ---
 ### python3 julian.py
+This command prints the Calender date, the Julian date and the modified Julian date in terminal.
 
+![julian](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab3_pictures/python3%20julian.png)
+
+---
 ### python3 date_example.py
 ### python3 datetime_example.py
 ### python3 time_example.py
