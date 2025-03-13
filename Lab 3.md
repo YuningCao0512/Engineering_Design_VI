@@ -30,8 +30,23 @@ This command prints the Calender date, the Julian date and the modified Julian d
 
 ---
 ### python3 date_example.py
+This command gives us the current date in two different types of ways. Meanwhile, information like day of the week, month, year, days after the first day of classes and days before the last day of classes. This can be used as a powerful tool for time tracking. 
+
+![date_example](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab3_pictures/python3%20date_example.png)
+
+---
 ### python3 datetime_example.py
+This command prints different examples to show date time 
+
+![datetime_example](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab3_pictures/datetime_example.png)
+
+---
 ### python3 time_example.py
+This command prints the time every 10 seconds. We are able to use command `Control C` to interupt (stop the command from running)
+
+![time example](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab3_pictures/time%20example.png)
+
+---
 ### python3 sun.py "New York"
 ### python3 moon.py
 ### python3 coordinates.py "Samuel C. Williams Library"
