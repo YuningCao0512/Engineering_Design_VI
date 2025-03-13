@@ -17,9 +17,10 @@ Each command have different outputs at the websites. Based on the pictures above
 ---
 ## Pystache 
 I used the command `sudo pip3 install pystache` to download Pystache on my laptop. Then I used the following command to finish the lab assignment: 
-  `cat say_hello.mustache`
-  `cat say_hello.py`
-  `python3 say_hello.py`
+- `cat say_hello.mustache`
+- `cat say_hello.py`
+- `python3 say_hello.py`
+  
 However, the downloading was not working at first. I tried to use `brew install pipx` command combined with `pip install pystache` to download Pystache in my environment. 
 ![mistake](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab6_pictures/download%20error.png)
 ![work](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab6_pictures/work.png)
