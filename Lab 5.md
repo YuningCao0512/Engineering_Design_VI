@@ -26,6 +26,22 @@ At this session, I will change direction back to lesson 5 and start running the 
 
 ![cd lesson5](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab5_pictures/cd_lesson5.png)
 
+## Running commands 
+After the above steps, all the fundamentals are set and the commands are ready to run. I used the following commands: 
+- `python3 subcpu.py`
+- `python3 pubcpu.py`
+
+This is the output of `python3 subcpu.py`
+![python3 subcpu.py](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab5_pictures/subcpu.png)
+This is the output of `python3 pubcpu.py`
+![python3 pubcpu.py](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab5_pictures/pubcpu.png)
+
+### Conclusion 
+Based on the above information, `pubcpu.py` demonstrates the relative data from the CPU of my laptop, while `subcpu.py` reprints the information with respect to the same timeline from `pubcpu.py`. The conclusion can be drawn by putting the terminals together. 
+
+![together](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab5_pictures/together.png)
+
+
 
 
 
