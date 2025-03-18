@@ -8,7 +8,7 @@ I have a MacOS, so I used the follwoing command to download Paho-MQTT:
 - `brew install mosquitto`
 - `brew services start mosquitto`
 
-Later in the terminal, I used command `pip3 install paho-mqtt` to download the MQTT. It is successfully downloaded and started running. 
+Later in the terminal, I used command `pip install paho-mqtt` to download the MQTT. It is successfully downloaded and started running. 
 
 ---
 ## iot repository 
