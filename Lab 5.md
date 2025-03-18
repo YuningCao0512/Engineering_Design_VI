@@ -12,7 +12,17 @@ It is successfulyl downloaded and started running.
 
 ---
 ## iot repository 
+This is the first task for this lab. This step is to make sure the lab has a foundation to build upon. I used the following command to make sure this step is completed:
+- `cd ~/iot`
+- `git pull`
 
+These two steps made sure I am able to change directory to the iot repository and update the repository with git pull. 
+
+![iot](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab5_pictures/cd_iot.png)
+
+---
+## lesson 5
+At this session, I will change direction back to lesson 5 and start running the code libraries provided above. Considering the two libraries need to take place in two different terminals. I complated the steps above for both terminals. 
 
 
 
