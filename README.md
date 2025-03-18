@@ -29,7 +29,7 @@
 ### [Lab 2: Command Line](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/Lab%202.md)
 ### [Lab 3: Python](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/Lab%203.md)
 ### Lab 4: Django and Flask
-### Lab 5: Paho-MQTT
+### [Lab 5: Paho-MQTT](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/Lab%205.md)
 ### [Lab 6: Node.js and Pystache](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/Lab%206.md)
 ### Lab 7: ThingSpeak and Google Sheets
 ### Lab 8: Data Analysis
