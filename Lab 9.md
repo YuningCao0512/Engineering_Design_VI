@@ -5,7 +5,7 @@ The main purpose of this lab is to install pyang and PlantUML, copy ~/iot/lesson
 As usual, to make sure the installing can be achieved without interruption, I decided to use my own environment. The command I used to install are: 
 - `pip install pyang`
 - `pip install PlantUML`
-- 
+
 I am able to install them successfully
 
 ![download](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab9_pictures/download.png)
