@@ -5,8 +5,19 @@ Download guide: [Fliplot](https://github.com/raczben/fliplot) and [GHDL](https:/
 
 ---
 ## Half-adder
-This is my final product after running the half-adder 
+This is my final product after running the half-adder. I used the following commands to complete the task:
+- `ghdl -a ha.vhdl`
+- `ghdl -a ha_tb.vhdl`
+- `ghdl -e ha_tb`
+- `ghdl -r ha_tb --vcd=ha.vcd`
+- `ha_tb.vhdl:47:5:@5ns:(assertion error): Reached end of test`
+- `gtkwave ha.vcd`
 
 ---
 ## 4-to-1 multiplexer  
-This is my final product after running 4-to-1 multiplexer  
+This is my final product after running 4-to-1 multiplexer. I used the following commands to complete the task:
+- `ghdl -a mux.vhdl`
+- `ghdl -a mux_tb.vhdl`
+- `ghdl -e mux_tb`
+- `ghdl -r mux_tb --vcd=mux.vcd`
+- `gtkwave mux.vcd`
