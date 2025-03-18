@@ -35,3 +35,4 @@
 ### Lab 8: Data Analysis
 ### Lab 9: YANG
 ### Lab 10: Blockchain
+### Lab 11: Senior Design Projects
