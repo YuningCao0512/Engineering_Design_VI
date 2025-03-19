@@ -45,12 +45,26 @@ To run the library, the commands I used are:
 - `python3 snakecoin-server-full-code.py`
 - `cd`
 
+Here's the output of the commands:
+
+![snakecoin-server-full-code](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab10_pictures/snakecoin-server-full-code.png)
+
 To mine a new block on Terminal 2, I used the following the commands:
 - `curl "localhost:5000/txion" \`
      `-H "Content-Type: application/json" \`
      `-d '{"from": "akjflw", "to":"fjlakdj", "amount": 3}'`
 - `curl localhost:5000/mine`
 
+In case of ImportError: cannot import name 'soft_unicode' from 'markupsafe', I used the following commands to prepare extra libraries:
+- `sudo pip3 install markupsafe==2.0.1`
+- `python3 snakecoin-server-full-code.py`
+
+After running both terminals at the same time, I was able to get an output from the terminal, as well as the website. 
+
+![final output](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab10_pictures/snakecoin-server-full-code_finaloutput.png)
+
+---
+## 4. node_server.py
 
 
 
