@@ -38,7 +38,18 @@ Here's the output of the commands in terminal:
 
 ---
 ## 3. snakecoin-server-full-code.py
-The main purpose of this part of the lab is to run `snakecoin-server-full-code.py` on Terminal 1 and mine a new block on Terminal 2
+The main purpose of this part of the lab is to run [snakecoin-server-full-code.py](https://github.com/kevinwlu/iot/blob/master/lesson10/snakecoin-server-full-code.py) on Terminal 1 and mine a new block on Terminal 2. 
+
+To run the library, the commands I used are:
+- `cat snakecoin-server-full-code.py`
+- `python3 snakecoin-server-full-code.py`
+- `cd`
+
+To mine a new block on Terminal 2, I used the following the commands:
+- `curl "localhost:5000/txion" \`
+     `-H "Content-Type: application/json" \`
+     `-d '{"from": "akjflw", "to":"fjlakdj", "amount": 3}'`
+- `curl localhost:5000/mine`
 
 
 
