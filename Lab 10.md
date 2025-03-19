@@ -9,8 +9,8 @@ The purpose of this lab is to use terminal to achieve following purposes:
 The information and instructions come from [this repository](https://github.com/kevinwlu/iot/tree/master/lesson10). 
 
 ---
-## hash_value.py
-The main purpose of this part of the lab is to run `hash_value.py` twice and compare results. I will use the following commands to achieve this task.
+## 1. hash_value.py
+The main purpose of this part of the lab is to run [hash_value.py](https://github.com/kevinwlu/iot/blob/master/lesson10/hash_value.py) twice and compare results. I will use the following commands to achieve this task.
 - `cd ~/iot/lesson10`
 - `cat hash_value.py`
 - `python3 hash_value.py` (This is the library running the first time)
@@ -19,3 +19,30 @@ The main purpose of this part of the lab is to run `hash_value.py` twice and com
 Based on the information provided, here is the corresponding output:
 
 ![hash_value](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab10_pictures/hash_value.png)
+
+This library prints the information of the hash for 1, 1.0, 3.14, Python, a tuple of vowels and an object of person. After running the library twice, the hash for 1, 1.0 and 3.14 did not have any changes. However, the value for the rest three had significant changes. 
+
+---
+## 2. snakecoin.py
+The main purpose of this part of the lab is to run [snakecoin.py](https://github.com/kevinwlu/iot/blob/master/lesson10/snakecoin.py) in terminal. The basic commands are:
+- `cd ~/iot/lesson10`
+- `cat snakecoin.py`
+- `python3 snakecoin.py`
+
+Here's the output of the commands in terminal:
+
+![snakecoin1](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab10_pictures/snakecoin1.png)
+![snakecoin2](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab10_pictures/snakecoin2.png)
+
+20 blocks are added to the blockchain and the hash information is provided. 
+
+---
+## 3. snakecoin-server-full-code.py
+The main purpose of this part of the lab is to run `snakecoin-server-full-code.py` on Terminal 1 and mine a new block on Terminal 2
+
+
+
+
+
+
+
