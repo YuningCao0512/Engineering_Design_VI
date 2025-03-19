@@ -59,15 +59,33 @@ In case of ImportError: cannot import name 'soft_unicode' from 'markupsafe', I u
 - `sudo pip3 install markupsafe==2.0.1`
 - `python3 snakecoin-server-full-code.py`
 
-After running both terminals at the same time, I was able to get an output from the terminal, as well as the website. 
+After running both terminals at the same time, I was able to get an output from the terminal, and the output `SnakeCoin Server` was printed on the website. 
 
 ![final output](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab10_pictures/snakecoin-server-full-code_finaloutput.png)
 
 ---
 ## 4. node_server.py
+The main purpose of this part of the lab is to clone Python blockchain app and uncomment the last line of `node_server.py`. I will use the following commands:
+- `git clone https://github.com/satwikkansal/python_blockchain_app.git`
+- `cd ~/python_blockchain_app`
+- `nano node_server.py`
 
+I was able to modify the library based on the commands provided. Here's the library after being modified:
+![modified](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab10_pictures/node_server_modified.png)
 
+---
+## 5. node_server.py and run_app.py
+The main purpose of this part of the lab is to run `node_server.py` on Terminal 1 and `run_app.py` on Terminal 2. The commands will be:
 
+- `python3 node_server.py` (terminal 1)
+- `cd ~/python_blockchain_app` (terminal 2)
+- `python3 run_app.py` (terminal 2)
 
+Here's the output of the conbined terminals:
+
+![5](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab10_pictures/5.png)
+
+## Conclusion
+This lab uses command in terminals to help redirect the addresses of the websites. The utilization of block chain can be very useful in different ways and fields. 
 
 
