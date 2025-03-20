@@ -31,7 +31,7 @@
 ### Lab 4: Django and Flask
 ### [Lab 5: Paho-MQTT](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/Lab%205.md)
 ### [Lab 6: Node.js and Pystache](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/Lab%206.md)
-### Lab 7: ThingSpeak and Google Sheets
+### [Lab 7: ThingSpeak and Google Sheets](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/Lab%207.md)
 ### Lab 8: Data Analysis
 ### [Lab 9: YANG](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/Lab%209.md)
 ### [Lab 10: Blockchain](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/Lab%2010.md)
