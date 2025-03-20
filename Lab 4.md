@@ -36,3 +36,23 @@ To start the project "stevens", I used to the following commands:
 - `ls`
 
 ![starting stevens](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab4_pictures/starting%20stevens%20.png)
+
+The following commands give instructions on how to start a Django app:
+- `python3 manage.py startapp myapp`
+- `ls`
+
+The output can be displayed:
+
+![app stevens](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab4_pictures/stevens%20app%20.png)
+
+The next step is to edit settings.py in ~/stevens/stevens. I add an asterisk to ALLOWED_HOSTS and 'myapp' to INSTALLED_APPS. I used command `nano settings.py`.
+
+
+
+
+
+
+
+
+
+
