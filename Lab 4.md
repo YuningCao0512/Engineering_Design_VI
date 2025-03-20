@@ -95,7 +95,83 @@ I will use `python3 manage.py runserver` to run Django server.
 ![running](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab4_pictures/stevens%20running.png)
 ![admin](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab4_pictures/stevens%20Ajango.png)
 
+### Rest 
+This project has similar steps like the one mentioned above. I used the following commands in the terminal to finish this task:
 
+Step 1: Start a Django project
+- `django-admin startproject mycpu`
+- `cd mycpu`
+- `ls`
+
+Step 2: Start a Django app
+- `python manage.py startapp myapp`
+- `ls`
+
+Step 3: Edit settings.py in ~/mycpu/mycpu
+- `nano ~/stevens/stevens/settings.py`
+
+Step 4: Copy urls.py to ~/mycpu/mycpu
+- cp ~/iot/lesson4/mycpu/urls.py .`
+- ls
+
+Step 5: Copy admin.py, models.py, views.py, and serializers.py to ~/mycpu/myapp
+- `cd myapp`
+- `cp ~/iot/lesson4/mycpu/admin.py .`
+- `cp ~/iot/lesson4/mycpu/models.py .`
+- `cp ~/iot/lesson4/mycpu/views.py .`
+- `cp ~/iot/lesson4/mycpu/serializers.py .`
+
+Step 6: Changed my password to PASSWORD 
+- `nano views.py`
+
+Step 7: Copy index.html
+- `mkdir static templates`
+- `cd templates`
+- `mkdir myapp`
+- `cd myapp`
+- `cp ~/iot/lesson4/mycpu/index.html .`
+
+Step 8: Edit index.html to add the Google Maps API key (AIzaSyCbGW5F0z7Mukswz_7eH86xhFeWQCv-h2E)
+- `nano index.html`
+  
+Step 9: Copy static files
+- `cd ~/mycpu/myapp/static`
+- `cp ~/iot/lesson4/static/favicon.ico .`
+- `mkdir myapp`
+- `cd myapp`
+- `cp ~/iot/lesson4/static/*css .`
+- `cp ~/iot/lesson4/static/*js .`
+- `cd ~/mycpu`
+
+Step 10: Copy controller.py to ~/mycpu
+- `cp ~/iot/lesson4/mycpu/controller.py .`
+
+Step 11: Change the default password 'admin' in controller.py
+- `nano controller.py`
+
+Step 12: install (or upgrade) psutil
+- `pip install -U psutil`
+
+Step 13: Run Django server
+- `python manage.py makemigrations myapp`
+- `python manage.py migrate`
+- `python manage.py createsuperuser`
+- `python manage.py runserver`
+
+![commands](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab4_pictures/rest_commands.png)
+
+---
+## 3. Flask
+At this session, I will use flask to run [hello_world.py](https://github.com/kevinwlu/iot/blob/master/lesson4/hello_world.py). I used command `pip install flask` to download. For running the library, I used the following command:
+- `cd ~/iot/lesson4`
+- `python3 hello_world.py`
+Here's the successful output:
+![terminal](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab4_pictures/flask_terminal.png)
+![flask](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab4_pictures/flask.png)
+
+---
+## Conclusion
+This lab uses Django to create, run and access servers. Meanwhile, this lab also uses flask as a tool to print certain libraries. 
 
 
 
