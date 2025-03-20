@@ -68,7 +68,7 @@ At this session of the lab, I started a new Google sheet named cpudata. I will s
 ---
 ## 6. cpu_spreadsheet.py
 At this session, I will run `cpu_spreadsheet.py` with the JSON key file in a demo folder. However, before running the library, I have to change the address of my json file, as well as the name of the spreadsheet by using the following command:
-- `nano rpi_spreadsheet.py`
+- `nano rpi_spreadsheet.py` 
 
 
 
