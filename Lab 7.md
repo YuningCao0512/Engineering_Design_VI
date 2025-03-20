@@ -70,10 +70,16 @@ At this session of the lab, I started a new Google sheet named cpudata. I will s
 At this session, I will run `cpu_spreadsheet.py` with the JSON key file in a demo folder. However, before running the library, I have to change the address of my json file, as well as the name of the spreadsheet by using the following command:
 - `nano cpu_spreadsheet.py`
 
-![edit]()
+![edit](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab7_pictures/nano.png)
 
 I will use command `python3 cpu_spreadsheet.py` to get the final output. 
 
+![terminal](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab7_pictures/final_output.png)
+![excel](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab7_pictures/excel_output.png)
+
+---
+## Conclusion
+This lab uses terminal to help with data exporting. This lab also helps with uploading data to ThingSpeak using the Google Cloud Platform to write information to Google Sheets.
 
 
 
