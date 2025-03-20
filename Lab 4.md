@@ -68,6 +68,38 @@ Then, copy index.html.
 
 ![copy](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab4_pictures/stevens%20copying.png)
 
+The next step is to enable Google Maps API. This is completed from Google Cloud Console and I got an API key. The next step is substitute YOUR_API_KEY in index.html with the API key (AIzaSyCceqju5x3Ay1sAs8wwVX7uKQQbAmcDczQ)
+- `nano index.html`
+
+![change API key](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab4_pictures/change%20API%20key.png)
+
+Then, copy static files. 
+- `cd ~/stevens/myapp/static`
+- `cp ~/iot/lesson4/static/favicon.ico .`
+- `mkdir myapp`
+- `cd myapp`
+- `cp ~/iot/lesson4/static/*css .`
+- `cp ~/iot/lesson4/static/*js .`
+
+![change files](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab4_pictures/stevens%20copy%20static%20files.png)
+
+Updating database:
+- `python3 manage.py makemigrations myapp`
+- `python3 manage.py migrate`
+- `python3 manage.py createsuperuser`
+
+![data update](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab4_pictures/stevens%20data%20update.png)
+
+I will use `python3 manage.py runserver` to run Django server.
+
+![running](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab4_pictures/stevens%20running.png)
+![admin](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab4_pictures/stevens%20Ajango.png)
+
+
+
+
+
+
 
 
 
