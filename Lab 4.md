@@ -45,7 +45,33 @@ The output can be displayed:
 
 ![app stevens](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab4_pictures/stevens%20app%20.png)
 
-The next step is to edit settings.py in ~/stevens/stevens. I add an asterisk to ALLOWED_HOSTS and 'myapp' to INSTALLED_APPS. I used command `nano settings.py`.
+The next step is to edit settings.py in ~/stevens/stevens. I add an asterisk to ALLOWED_HOSTS and 'myapp' to INSTALLED_APPS. I used command `nano ~/stevens/stevens/settings.py`.
+
+![modified settings](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab4_pictures/nano_settings.png)
+
+The next step is to copy `urls.py` to ~/stevens/stevens.
+- `cp ~/iot/lesson4/stevens/urls.py .`
+
+Then, copy admin.py, models.py, and views.py to ~/stevens/myapp.
+- `cd myapp`
+- `ls`
+- `cp ~/iot/lesson4/stevens/admin.py .`
+- `cp ~/iot/lesson4/stevens/models.py .`
+- `cp ~/iot/lesson4/stevens/views.py .`
+
+Then, copy index.html. 
+- `mkdir static templates`
+- `cd templates`
+- `mkdir myapp`
+- `cd myapp`
+- `cp ~/iot/lesson4/stevens/index.html .`
+
+![copy](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab4_pictures/stevens%20copying.png)
+
+
+
+
+
 
 
 
