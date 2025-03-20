@@ -24,6 +24,7 @@ At this session, I will save the [Lab 7 Google sheet](https://docs.google.com/sp
 
 ![move](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab8_pictures/move%20csv.png)
 
+---
 ## 3. Copy libraries to demo
 The purpose of this session is to copy `~/iot/lesson8/plt_final.py` and `plt_cv2.py` to `~/demo`. 
 - `cd ~/demo`
@@ -36,9 +37,28 @@ The purpose of this session is to copy `~/iot/lesson8/plt_final.py` and `plt_cv2
 
 ---
 ## 4. Editting
-This session aims to edit `plt_final.py` and `plt_cv2.py` to read the CSV file with customized plot titles
+This session aims to edit `plt_final.py` and `plt_cv2.py` to read the CSV file with customized plot titles. I used the following commands:
+- `nano plt_final.py`
+- `nano plt_cv2.py`
 
+![final](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab8_pictures/final%20code.png)
+![cv2](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab8_pictures/cv2%20code.png)
 
+---
+## 5. Running libraries
+I used the following commands to run the libraries:
+- `python3 plt_final.py`
+- `python3 plt_cv2.py`
 
+![time](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab8_pictures/time.png)
+![cpu value](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab8_pictures/value_cpu%20.png)
+![memory value](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab8_pictures/value_memory.png)
+![cpu prob](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab8_pictures/cpu%20vs%20prob.png)
+![memory prob](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab8_pictures/memory%20vs%20prob.png)
+![plot](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab8_pictures/plot.png)
+
+---
+## Conclusion
+This labs uses python codes to help export data into plots.
 
 
