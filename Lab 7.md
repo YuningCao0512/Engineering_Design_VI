@@ -44,6 +44,32 @@ At this session, the main goal is to download gspread and oauth2client to my lap
 
 ---
 ## 4. Google Cloud Platform Identity and Access Management
+For this session of the lab, I started by creating an account on Google Cloud and started by creating my first project with the name `cpudata`. Then, I will go to APIs & Services menu and enable APIs & Services, which includes enabling both Drive API and Sheets API. 
+
+![enables](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab7_pictures/enabling.png)
+
+Next, I will go to Credential > Create Credentials > Create service account key > Service account. I named my account rpudata > JSON key type > Create > download rpidata-xxxxxxxxxxxx.json. 
+
+![service](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab7_pictures/service%20.png)
+
+The next step will be preparing for the use of google spreadsheet. I used the following commands in my terminal: 
+- `cd demo`
+- `cp ~/iot/lesson3/system_info.py .`
+- `cp ~/iot/lesson7/rpi_spreadsheet.py .`
+
+---
+## 5. Google sheet
+At this session of the lab, I started a new Google sheet named cpudata. I will share it with the client email in the JSON file, delete Rows 2 to 1000, and edit the header cells. I successfully shared the google sheet with the client email on the json file and allowed it to have editting access. 
+
+![info](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab7_pictures/json_info.png)
+
+![sheet](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab7_pictures/sheet.png)
+
+---
+## 6. cpu_spreadsheet.py
+At this session, I will run `cpu_spreadsheet.py` with the JSON key file in a demo folder. However, before running the library, I have to change the address of my json file, as well as the name of the spreadsheet by using the following command:
+- `nano rpi_spreadsheet.py`
+
 
 
 
