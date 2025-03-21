@@ -18,8 +18,6 @@ The main purpose of this session is to introduce MathWorks ThingSpeak. I already
 
 ![channel](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab7_pictures/ThingSpeak_channel.png)
 
-![LICC5CVEXZ0FJ2R1](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab7_pictures/Write_API_key.png)
-
 ---
 ## 2. thingspeak_feed.py
 The main purpose of this session of the lab is to run `thingspeak_feed.py` in a demo folder. To do so, I used the command provided: 
