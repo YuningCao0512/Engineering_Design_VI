@@ -63,6 +63,8 @@ After running both terminals at the same time, I was able to get an output from 
 
 ![final output](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab10_pictures/snakecoin-server-full-code_finaloutput.png)
 
+![server](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab10_pictures/SnakeCoin%20Server.png)
+
 ---
 ## 4. node_server.py
 The main purpose of this part of the lab is to clone Python blockchain app and uncomment the last line of `node_server.py`. I will use the following commands:
