@@ -87,7 +87,9 @@ The main purpose of this part of the lab is to run `node_server.py` on Terminal 
 
 Here's the output of the conbined terminals:
 
-![5](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab10_pictures/5.png)
+![1](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab10_pictures/5.1.png)
+![2](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab10_pictures/5.2.png)
+![3](https://github.com/YuningCao0512/Engineering_Design_VI/blob/main/lab10_pictures/5.3.png)
 
 ## Conclusion
 This lab uses command in terminals to help redirect the addresses of the websites. The utilization of block chain can be very useful in different ways and fields. 
